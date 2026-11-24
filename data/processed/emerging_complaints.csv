@@ -1,0 +1,6 @@
+month,aspect,total_reviews,negative_reviews,negative_rate,baseline_rate,potential_alert
+2026-11-01,Delivery,6,6,1.0,,False
+2026-11-01,Food Quality,9,6,0.6666666666666666,,False
+2026-11-01,Packaging,3,3,1.0,,False
+2026-11-01,Pricing,2,2,1.0,,False
+2026-11-01,Staff & Service,5,2,0.4,,False

@@ -1,0 +1,26 @@
+review_id,business_id,location,review_date,rating,review_text,aspect,sentiment_score,sentiment
+R001,B001,Jaipur,2026-11-01,5,Excellent food and very friendly staff,Food Quality,0.6,Positive
+R001,B001,Jaipur,2026-11-01,5,Excellent food and very friendly staff,Staff & Service,0.6,Positive
+R002,B001,Jaipur,2026-11-02,2,Delivery was extremely late and food was cold,Food Quality,-0.6,Negative
+R002,B001,Jaipur,2026-11-02,2,Delivery was extremely late and food was cold,Delivery,-0.6,Negative
+R003,B001,Jaipur,2026-11-03,1,Very rude staff and terrible customer service,Staff & Service,-0.6,Negative
+R004,B001,Jaipur,2026-11-04,4,Great food but prices are expensive,Food Quality,-0.6,Negative
+R004,B001,Jaipur,2026-11-04,4,Great food but prices are expensive,Pricing,-0.6,Negative
+R005,B001,Jaipur,2026-11-05,2,The packaging was damaged and food was leaking,Food Quality,-0.6,Negative
+R005,B001,Jaipur,2026-11-05,2,The packaging was damaged and food was leaking,Packaging,-0.6,Negative
+R006,B002,Delhi,2026-11-01,5,Amazing service and delicious food,Food Quality,0.6,Positive
+R006,B002,Delhi,2026-11-01,5,Amazing service and delicious food,Staff & Service,0.6,Positive
+R007,B002,Delhi,2026-11-02,2,Order took too long to arrive,Delivery,-0.6,Negative
+R008,B002,Delhi,2026-11-03,1,Staff was very unhelpful and rude,Staff & Service,-0.6,Negative
+R009,B002,Delhi,2026-11-04,3,Food was good but delivery was slow,Food Quality,-0.6,Negative
+R009,B002,Delhi,2026-11-04,3,Food was good but delivery was slow,Delivery,-0.6,Negative
+R010,B002,Delhi,2026-11-05,2,Very poor packaging and damaged container,Packaging,-0.6,Negative
+R011,B003,Mumbai,2026-11-01,5,Excellent customer service and tasty food,Food Quality,0.6,Positive
+R011,B003,Mumbai,2026-11-01,5,Excellent customer service and tasty food,Staff & Service,0.6,Positive
+R012,B003,Mumbai,2026-11-02,1,"Terrible experience, food arrived very late",Food Quality,-0.6,Negative
+R012,B003,Mumbai,2026-11-02,1,"Terrible experience, food arrived very late",Delivery,-0.6,Negative
+R013,B003,Mumbai,2026-11-03,2,Food was cold and delivery was delayed,Food Quality,-0.6,Negative
+R013,B003,Mumbai,2026-11-03,2,Food was cold and delivery was delayed,Delivery,-0.6,Negative
+R014,B003,Mumbai,2026-11-04,4,Good experience but slightly expensive,Pricing,-0.6,Negative
+R015,B003,Mumbai,2026-11-05,1,Extremely bad delivery and damaged packaging,Delivery,-0.6,Negative
+R015,B003,Mumbai,2026-11-05,1,Extremely bad delivery and damaged packaging,Packaging,-0.6,Negative

@@ -1,0 +1,14 @@
+business_id,location,aspect,total_reviews,negative_reviews,negative_rate,priority,recommended_action,priority_score
+B001,Jaipur,Delivery,1,1,1.0,Medium,Review delivery timing and order handoff processes.,1.0
+B001,Jaipur,Food Quality,3,3,1.0,High,Review food preparation and quality checks.,3.0
+B001,Jaipur,Packaging,1,1,1.0,Medium,Inspect packaging materials and sealing procedures.,1.0
+B001,Jaipur,Pricing,1,1,1.0,Medium,Review pricing and communicate value clearly.,1.0
+B001,Jaipur,Staff & Service,1,1,1.0,Medium,Provide staff training and review service procedures.,1.0
+B002,Delhi,Delivery,2,2,1.0,High,Review delivery timing and order handoff processes.,2.0
+B002,Delhi,Food Quality,1,1,1.0,Medium,Review food preparation and quality checks.,1.0
+B002,Delhi,Packaging,1,1,1.0,Medium,Inspect packaging materials and sealing procedures.,1.0
+B002,Delhi,Staff & Service,1,1,1.0,Medium,Provide staff training and review service procedures.,1.0
+B003,Mumbai,Delivery,3,3,1.0,High,Review delivery timing and order handoff processes.,3.0
+B003,Mumbai,Food Quality,2,2,1.0,High,Review food preparation and quality checks.,2.0
+B003,Mumbai,Packaging,1,1,1.0,Medium,Inspect packaging materials and sealing procedures.,1.0
+B003,Mumbai,Pricing,1,1,1.0,Medium,Review pricing and communicate value clearly.,1.0

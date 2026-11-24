@@ -1,0 +1,16 @@
+review_id,business_id,location,platform,review_date,rating,review_text
+R001,B001,Jaipur,Google,2026-11-01,5,Excellent food and very friendly staff
+R002,B001,Jaipur,Google,2026-11-02,2,Delivery was extremely late and food was cold
+R003,B001,Jaipur,Google,2026-11-03,1,Very rude staff and terrible customer service
+R004,B001,Jaipur,Google,2026-11-04,4,Great food but prices are expensive
+R005,B001,Jaipur,Google,2026-11-05,2,The packaging was damaged and food was leaking
+R006,B002,Delhi,Google,2026-11-01,5,Amazing service and delicious food
+R007,B002,Delhi,Google,2026-11-02,2,Order took too long to arrive
+R008,B002,Delhi,Google,2026-11-03,1,Staff was very unhelpful and rude
+R009,B002,Delhi,Google,2026-11-04,3,Food was good but delivery was slow
+R010,B002,Delhi,Google,2026-11-05,2,Very poor packaging and damaged container
+R011,B003,Mumbai,Google,2026-11-01,5,Excellent customer service and tasty food
+R012,B003,Mumbai,Google,2026-11-02,1,"Terrible experience, food arrived very late"
+R013,B003,Mumbai,Google,2026-11-03,2,Food was cold and delivery was delayed
+R014,B003,Mumbai,Google,2026-11-04,4,Good experience but slightly expensive
+R015,B003,Mumbai,Google,2026-11-05,1,Extremely bad delivery and damaged packaging
